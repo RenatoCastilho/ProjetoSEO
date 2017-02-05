@@ -12,6 +12,7 @@ header{
   height: 500px;
   background-color: black;
   color: #666;
+  position: fixed;
 }
 .header-img{
   height: 500px;
@@ -35,6 +36,9 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
   height: 500px;
+}
+.barraTopo{
+  height: 40px;
 }
 .barraTopo ul {
     position: fixed;
