@@ -142,6 +142,9 @@ footer p{
 
 
 /* DETALHES PRODUTO */
+.fotoProdutoAtual{
+  max-width: 1000px;
+}
 .produtoAtual{
   background-color: white;
   text-align: center;
