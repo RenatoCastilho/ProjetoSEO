@@ -139,3 +139,35 @@ footer p{
 .musicasection img{
   padding: 40px 0px;
 }
+
+
+/* DETALHES PRODUTO */
+.produtoAtual{
+  background-color: white;
+  text-align: center;
+}
+.tituloProduto{
+  text-align: center;
+}
+.thumbnailProduto{
+  height: 200px;
+  width: 350px;
+}
+.linha a{
+  text-align: center;
+  margin: 30px;
+  display: inline-block;
+}
+.detalhesProduto{
+  padding-left: 30px;
+  background-color: white;
+}
+.detalhesProduto ol{
+  list-style: none;
+}
+.maisProdutos{
+  padding-left: 30px;
+  background-color: white;
+}
+
+/* FIM DETALHES */
