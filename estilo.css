@@ -37,11 +37,13 @@ body{
   height: 500px;
 }
 .barraTopo ul {
+    position: fixed;
+    width: 100%;
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: black;
+    background-color: rgba(0,0,0,0.8);
 }
 .barraTopo img{
   padding-left: 350px;
